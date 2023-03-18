@@ -1,7 +1,7 @@
-* Shabdik
+# Shabdik
 Shabdik is a web project made with HTML, PHP, JacaSript. It is an ecommerce website for electronics and gadgets.
 
-** Details
+## Details
 This is a simple ecommerce website designed for electronics.
 There are two mode
   1. Admin Mode
