@@ -14,3 +14,6 @@ In user mode, user can perform the following:
 An admin can do the following:
   1. Add new product
   2. Remove existing product
+
+
+![shabdik home](https://user-images.githubusercontent.com/47048039/226151753-05610eb2-0861-421a-84f0-95286ce1d872.PNG)
